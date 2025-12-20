@@ -1,0 +1,6 @@
+--- Matlab Reference ---
+Distance to node 0: 0
+Distance to node 1: Inf
+Distance to node 2: Inf
+Distance to node 3: 21
+Distance to node 4: Inf
