@@ -10,7 +10,7 @@
 
 > **Analysis **: 
 
-> - **EN**: OpenMP demonstrates the best speedup for 10,000 nodes. While MPI scales to 112 processes, it is limited by inter-node communication overhead.
+ OpenMP demonstrates the best speedup for 10,000 nodes. While MPI scales to 112 processes, it is limited by inter-node communication overhead.
 
 
 
@@ -18,4 +18,4 @@ https://github.com/user-attachments/assets/a20dc5a4-4fa9-47db-bd15-c4938381eafa
 
 
 
-- **EN**: This video captures the real-time execution outputs of all algorithm versions on Tornado nodes.
+This video captures the real-time execution outputs of all algorithm versions on Tornado nodes.
