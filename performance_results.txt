@@ -1,0 +1,8 @@
+Threads,Time(sec)
+Nodes: 10000, Execution Time: 0.863096 seconds
+Nodes: 10000, Execution Time: 0.456786 seconds
+Nodes: 10000, Execution Time: 0.263977 seconds
+Nodes: 10000, Execution Time: 0.189816 seconds
+Nodes: 10000, Execution Time: 0.217665 seconds
+Nodes: 10000, Execution Time: 0.375277 seconds
+Nodes: 10000, Execution Time: 0.409017 seconds
