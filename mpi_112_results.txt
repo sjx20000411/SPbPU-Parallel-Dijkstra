@@ -1,0 +1,1 @@
+MPI (Nodes: 10000, Processes: 112) Time: 0.671897 s
