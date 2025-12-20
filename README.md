@@ -1,6 +1,7 @@
 # SPbPU-Parallel-Dijkstra
-###  Performance Results / 
-
+### Correctness Baseline (Matlab)
+ A sequential Dijkstra algorithm was implemented in Matlab with 1,000 nodes. The resulting shortest paths match the outputs of the parallel C/Python versions on the HPC, ensuring the logical correctness of the implementation.
+##  Performance Results 
 | Implementation  | Parallel Technology   | Max Threads/Procs  | Best Time   |
 | :--- | :--- | :--- | :--- |
 | **C & OpenMP** | Shared Memory   | 8 Threads | **0.1898 s** |
